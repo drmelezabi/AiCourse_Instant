@@ -1,53 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-  font-family: Arial, sans-serif;
-  line-height: 1.6;
-}
-
-h1 {
-font-size: 32px;
-margin-bottom: 16px;
-}
-
-h2 {
-font-size: 24px;
-margin-bottom: 12px;
-}
-
-h3 {
-font-size: 20px;
-margin-bottom: 10px;
-}
-
-img {
-max-width: 100%;
-margin: 16px 0;
-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-code {
-font-family: Consolas, monospace;
-background-color: #f4f4f4;
-padding: 2px 4px;
-border: 1px solid #ccc;
-}
-
-pre {
-font-family: Consolas, monospace;
-background-color: #f4f4f4;
-padding: 10px;
-border: 1px solid #ccc;
-overflow-x: auto;
-}
-
-b {
-font-weight: bold;
-}
-
-</style>
 </head>
 <body>
 
