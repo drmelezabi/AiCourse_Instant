@@ -1,17 +1,8 @@
-def removeOccurrencesElements(string, number):
-    # check input type
-    if not isinstance(string, (str)):
-        return 'wrong input Type'
+firstList = [10, 20, 30, 40, 50]
+indexList = [1, 3, 5]
 
-    # Find the first non-repeated character
-    stringList = string.split()
-
-    uniqueList = [x for x in stringList if x != str(number)]
-
-    if(uniqueList):
-        return " ".join(uniqueList)
-    else:
-        return 'no repeated chars'
-
-
-print(removeOccurrencesElements('1 1 2 3 4 5 1 2 1', 1))
+# Check if any value in indexList is a valid index in firstList
+if any(item < 0 or item >= len(firstList) for item in indexList):
+    print("Some elements in indexList are invalid indices.")
+else:
+    print("All elements in indexList are valid indices.")
