@@ -8,7 +8,6 @@
 
 1. **Depth-First Traversal (DFS):**
    Depth-First Traversal explores as far as possible along each branch before backtracking. It starts at a specific node (the source node) and follows a path as deep as possible before backtracking and exploring other branches. It often uses recursion or an explicit stack to keep track of visited nodes and the order of exploration. There are two common variants of DFS:
-   
       - Recursive DFS: It uses function calls to traverse the graph recursively.
       - Iterative DFS: It uses an explicit stack to simulate recursion without function calls.
 
