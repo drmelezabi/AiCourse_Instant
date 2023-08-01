@@ -4,7 +4,7 @@
     Graph traversal is a fundamental operation in graph data structures, where it involves visiting all the nodes (vertices) and edges of a graph in a systematic way. In simple terms, it means exploring the entire graph to perform specific tasks, such as searching for a particular node, checking connectivity, finding paths, or processing nodes in a specific order.
 </div>
 
-##### Graph traversal algorithms can broadly be classified into two main categories: depth-first traversal and breadth-first traversal.
+#### Graph traversal algorithms can broadly be classified into two main categories: depth-first traversal and breadth-first traversal.
 
 1. **Depth-First Traversal (DFS):**
    Depth-First Traversal explores as far as possible along each branch before backtracking. It starts at a specific node (the source node) and follows a path as deep as possible before backtracking and exploring other branches. It often uses recursion or an explicit stack to keep track of visited nodes and the order of exploration. There are two common variants of DFS:
