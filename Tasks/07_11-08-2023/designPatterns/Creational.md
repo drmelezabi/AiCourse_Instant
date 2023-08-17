@@ -59,6 +59,8 @@ animal = dog_factory.create_animal()
 print(animal.speak())  # Output: Woof!
 ```
 
+[_Deference between Factory and abstract factory_](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/deference/FactoryMethod-AbstractFactoryMethod.md)
+
 <a name="Builder-Method"></a>
 
 ### 3. Builder Method
