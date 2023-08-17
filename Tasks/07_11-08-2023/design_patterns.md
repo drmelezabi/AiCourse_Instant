@@ -2,31 +2,31 @@
 
 - **Creational Design Patterns**:
 
-  - [Factory Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.mdd#Factory-Method)
-  - [Abstract Factory Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.mdd#Abstract-Factory-Method)
-  - [Builder Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.mdd#Builder-Method)
-  - [Prototype Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.mdd#Prototype-Method)
-  - [Singleton Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.mdd#Singleton-Method)
+  - [Factory Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.md#Factory-Method)
+  - [Abstract Factory Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.md#Abstract-Factory-Method)
+  - [Builder Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.md#Builder-Method)
+  - [Prototype Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.md#Prototype-Method)
+  - [Singleton Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Creational.md#Singleton-Method)
 
 - **Structural Design Patterns**:
 
-  - [Adapter Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Adapter-Method)
-  - [Bridge Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Bridge-Method)
-  - [Composite Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Composite-Method)
-  - [Decorator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Decorator-Method)
-  - [Facade Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Facade-Method)
-  - [Proxy Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#Proxy-Method)
-  - [FlyWeight Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.mdd#FlyWeight-Method)
+  - [Adapter Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Adapter-Method)
+  - [Bridge Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Bridge-Method)
+  - [Composite Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Composite-Method)
+  - [Decorator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Decorator-Method)
+  - [Facade Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Facade-Method)
+  - [Proxy Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#Proxy-Method)
+  - [FlyWeight Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Structural.md#FlyWeight-Method)
 
 - **Behavioral Design Patterns**:
 
-  - [Chain of Responsibility Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Chain-of-Responsibility-Method)
-  - [Command Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Command-Method)
-  - [Iterator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Iterator-Method)
-  - [Mediator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Mediator-Method)
-  - [Memento Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Memento-Method)
-  - [Observer Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Observer-Method)
-  - [State Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#State-Method)
-  - [Strategy Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Strategy-Method)
-  - [Template Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Template-Method)
-  - [Visitor Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.mdd#Visitor-Method)
+  - [Chain of Responsibility Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Chain-of-Responsibility-Method)
+  - [Command Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Command-Method)
+  - [Iterator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Iterator-Method)
+  - [Mediator Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Mediator-Method)
+  - [Memento Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Memento-Method)
+  - [Observer Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Observer-Method)
+  - [State Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#State-Method)
+  - [Strategy Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Strategy-Method)
+  - [Template Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Template-Method)
+  - [Visitor Method](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/Behavioral.md#Visitor-Method)
