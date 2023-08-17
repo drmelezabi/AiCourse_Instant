@@ -22,7 +22,8 @@
 
 10- [common problem that design pattern aim to solve](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/ProblemsSolvedByDesignPatterns.md) - Done
 
-**Understanding progress**
+### Understanding progress
+
 1- Clean code - OK
 
 2- Design patterns - studying progress: [■■■□□□□□□□] 36%
