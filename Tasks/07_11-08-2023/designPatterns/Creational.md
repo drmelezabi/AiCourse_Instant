@@ -6,7 +6,7 @@
 
 The Factory Method pattern provides an interface for creating objects in a super class, but allows subclasses to alter the type of objects that will be created.
 
-Example in Python:
+Example:
 
 ```python
 class Dog:
@@ -35,7 +35,7 @@ print(animal.speak())  # Output: Woof!
 
 The Abstract Factory pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
-Example in Python:
+Example:
 
 ```python
 class Dog:
@@ -65,7 +65,7 @@ print(animal.speak())  # Output: Woof!
 
 The Builder pattern separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
 
-Example in Python:
+Example:
 
 ```python
 class Pizza:
@@ -109,7 +109,7 @@ print(pizza)  # Output: dough, sauce, cheese
 
 The Prototype pattern allows creating new instances by copying an existing instance (prototype) instead of creating from scratch.
 
-Example in Python:
+Example:
 
 ```python
 import copy
@@ -136,7 +136,7 @@ print(sheep2.name)  # Output: Dolly
 
 The Singleton pattern ensures a class has only one instance and provides a global point of access to that instance.
 
-Example in Python:
+Example:
 
 ```python
 class Singleton:

@@ -6,7 +6,7 @@
 
 The Chain of Responsibility pattern allows multiple objects to handle a request without the sender needing to know which object will ultimately process it.
 
-Example in Python:
+Example:
 
 ```python
 class Handler:
@@ -50,7 +50,7 @@ handler1.handle_request("Request2")  # Output: ConcreteHandler2: Handling Reques
 
 The Command pattern encapsulates a request as an object, thereby allowing for parameterization of clients with different requests and queuing of requests.
 
-Example in Python:
+Example:
 
 ```python
 class Receiver:
@@ -89,7 +89,7 @@ invoker.execute_command()  # Output: Receiver: Performing action
 
 The Iterator pattern provides a way to access elements of a collection sequentially without exposing its underlying representation.
 
-Example in Python:
+Example:
 
 ```python
 class MyCollection:
@@ -134,7 +134,7 @@ for item in collection:
 
 The Mediator pattern defines an object that encapsulates how a set of objects interact, allowing loose coupling between these objects.
 
-Example in Python:
+Example:
 
 ```python
 class Mediator:
@@ -184,7 +184,7 @@ colleague1.send("Event from Colleague1")
 
 The Memento pattern allows capturing an object's internal state so that it can be restored to that state later.
 
-Example in Python:
+Example:
 
 ```python
 class Memento:
@@ -225,7 +225,7 @@ print(originator._state)  # Output: State 1
 
 The Observer pattern defines a one-to-many relationship between objects, so that when one object changes state, all its dependents are notified and updated automatically.
 
-Example in Python:
+Example:
 
 ```python
 class Observer:
@@ -269,7 +269,7 @@ subject.notify("Hello observers!")
 
 The State pattern allows an object to change its behavior when its internal state changes. It appears as if the object changed its class.
 
-Example in Python:
+Example:
 
 ```python
 class State:
@@ -311,7 +311,7 @@ context.request()  # Output: ConcreteState2: Handling request in State 2
 
 The Strategy pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. It allows a client to choose an algorithm from a family of algorithms at runtime.
 
-Example in Python:
+Example:
 
 ```python
 class Strategy:
@@ -353,7 +353,7 @@ context.execute_strategy()  # Output: Executing strategy B
 
 The Template Method pattern defines the structure of an algorithm in the base class but allows subclasses to override specific steps of the algorithm without changing its structure.
 
-Example in Python:
+Example:
 
 ```python
 class AbstractClass:
@@ -402,7 +402,7 @@ class_b.template_method()
 
 The Visitor pattern lets you add further operations to objects without having to modify them. It separates algorithms from the objects on which they operate.
 
-Example in Python:
+Example:
 
 ```python
 class Visitor:

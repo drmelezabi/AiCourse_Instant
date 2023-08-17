@@ -6,7 +6,7 @@
 
 The Adapter pattern allows incompatible interfaces to work together by providing a wrapper class that converts the interface of one class into another interface.
 
-Example in Python:
+Example:
 
 ```python
 class EuropeanSocket:
@@ -35,7 +35,7 @@ print(adapter.voltage())  # Output: 110
 
 The Bridge pattern separates abstraction from implementation, allowing them to vary independently.
 
-Example in Python:
+Example:
 
 ```python
 class DrawingAPI:
@@ -72,7 +72,7 @@ shape1.draw(1, 2, 3)  # Output: API1: Drawing a circle at (1, 2) with radius 3
 
 The Composite pattern composes objects into tree structures to represent part-whole hierarchies. It allows clients to treat individual objects and compositions of objects uniformly.
 
-Example in Python:
+Example:
 
 ```python
 class Graphic:
@@ -113,7 +113,7 @@ composite.draw()
 
 The Decorator pattern attaches additional responsibilities to an object dynamically. It provides a flexible alternative to subclassing for extending functionality.
 
-Example in Python:
+Example:
 
 ```python
 class Coffee:
@@ -147,7 +147,7 @@ print(sugar_milk_coffee.cost())  # Output: 8
 
 The Facade pattern provides a simplified interface to a complex system of classes, making it easier to use and understand.
 
-Example in Python:
+Example:
 
 ```python
 class SubsystemA:
@@ -182,7 +182,7 @@ print(facade.operation())
 
 The Proxy pattern provides a surrogate or placeholder for another object to control access to it.
 
-Example in Python:
+Example:
 
 ```python
 class Subject:
@@ -214,7 +214,7 @@ proxy.request()
 
 The Flyweight pattern minimizes memory usage by sharing common parts of objects between multiple objects, instead of duplicating the data.
 
-Example in Python:
+Example:
 
 ```python
 class TreeType:
