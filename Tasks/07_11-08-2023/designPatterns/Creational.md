@@ -114,23 +114,37 @@ The Prototype pattern allows creating new instances by copying an existing insta
 Example:
 
 ```python
-import copy
-
-class Prototype:
+class Animal:
     def clone(self):
-        return copy.deepcopy(self)
+        pass
 
-class Sheep(Prototype):
-    def __init__(self, name):
-        self.name = name
+class Cat(Animal):
+    def speak(self):
+        print("Meow!")
 
-sheep_prototype = Sheep("Dolly")
-sheep1 = sheep_prototype.clone()
-sheep2 = sheep_prototype.clone()
+    def clone(self):
+        return Cat()
 
-print(sheep1.name)  # Output: Dolly
-print(sheep2.name)  # Output: Dolly
+class Dog(Animal):
+    def speak(self):
+        print("Woof!")
+
+    def clone(self):
+        return Dog()
+
+# Create prototype objects
+cat_prototype = Cat()
+dog_prototype = Dog()
+
+# Copy and use prototypes
+animal1 = cat_prototype.clone()
+animal2 = dog_prototype.clone()
+
+animal1.speak()  # Output: Meow!
+animal2.speak()  # Output: Woof!
 ```
+
+[_Deference between prototype and create instance_](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/designPatterns/deference/prototype-instance.md)
 
 <a name="Singleton-Method"></a>
 
