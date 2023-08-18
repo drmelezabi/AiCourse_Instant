@@ -9,6 +9,6 @@
   - [3rd task](https://github.com/drmelezabi/AiCourse_Instant/blob/main/Tasks/03_25-07-2023/Task_03.md): Anaconda Environment => Ready for reviewing
   - [4th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/04_28-07-2023/Task_04.md): Graph traversal => Ready for reviewing
   - [5th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/05_01-08-2023/Task_05.md): Hash map / Implementation of graph in python => Ready for reviewing
-  - [6th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/06_04-08-2023/Task_06.md): DevOps vs Agile / DevOpsTools => in progress
-  - [7th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/Tasks_07.md): Clean Code / Design & Architecture patterns / Solid principles / scheduling algorithms / Fragmentation / Semi structured DB => in progress
-  - [8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): DevOps vs Agile / DevOpsTools => in progress
+  - [6th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/06_04-08-2023/Task_06.md): DevOps vs Agile / DevOpsTools => Ready for reviewing
+  - [7th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/Tasks_07.md): Clean Code / Design & Architecture patterns / Solid principles / scheduling algorithms / Fragmentation / Semi structured DB => Ready for reviewing
+  - [8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): collect data from file / Profiles => Ready for reviewing
