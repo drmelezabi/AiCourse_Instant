@@ -11,4 +11,4 @@
   - [5th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/05_01-08-2023/Task_05.md): Hash map / Implementation of graph in python => Ready for reviewing
   - [6th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/06_04-08-2023/Task_06.md): DevOps vs Agile / DevOpsTools => in progress
   - [7th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/Tasks_07.md): Clean Code / Design & Architecture patterns / Solid principles / scheduling algorithms / Fragmentation / Semi structured DB => in progress
-  - [9th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_09.md): DevOps vs Agile / DevOpsTools => in progress
+  - [8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): DevOps vs Agile / DevOpsTools => in progress
