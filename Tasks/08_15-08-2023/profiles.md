@@ -5,4 +5,4 @@
 - [Github](https://github.com/drmelezabi)
 - **google colab**:
 
-<img src="https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Images/colab.png" alt="Design vs Architecture Patterns">
+<img src="/Tasks/08_15-08-2023/Images/colab.png" alt="collab">
