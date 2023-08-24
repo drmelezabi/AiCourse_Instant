@@ -12,3 +12,4 @@
   - [6th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/06_04-08-2023/Task_06.md): DevOps vs Agile / DevOpsTools => Ready for reviewing
   - [7th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/07_11-08-2023/Tasks_07.md): Clean Code / Design & Architecture patterns / Solid principles / scheduling algorithms / Fragmentation / Semi structured DB => Ready for reviewing
   - [8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): collect data from file / Profiles => Ready for reviewing
+  - [9th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_09.md): collect data from file / Profiles => Ready for reviewing
