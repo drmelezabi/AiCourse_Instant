@@ -14,3 +14,5 @@
   - [ 8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): collect data from file / Profiles => Ready for reviewing
   - [ 9th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/09_18-08-2023/Task_09.md):
   - [10th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/10_25-08-2023):
+  - [11th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/11_05-09-2023):
+  - [12th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/12_26-09-2023):
