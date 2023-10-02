@@ -14,5 +14,5 @@
   - [ 8th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/08_15-08-2023/Task_08.md): collect data from file / Profiles => Ready for reviewing
   - [ 9th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/09_18-08-2023/Task_09.md): Book Library Scraping
   - [10th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/10_25-08-2023): Conda vs. pip - Task Scheduler - RPA
-  - [11th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/11_05-09-2023): Types of distribution and types of density in statistics
+  - [11th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/11_05-09-2023/task11.md): Types of distribution and types of density in statistics
   - [12th task](https://github.com/drmelezabi/AiCourse_Instant/tree/main/Tasks/12_26-09-2023): Pandas
